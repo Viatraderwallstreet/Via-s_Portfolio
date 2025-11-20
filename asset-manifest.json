@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Via-s_Portfolio/static/css/main.7d2b0347.css",
+    "main.js": "/Via-s_Portfolio/static/js/main.68db6530.js",
+    "static/js/453.521dfb9b.chunk.js": "/Via-s_Portfolio/static/js/453.521dfb9b.chunk.js",
+    "static/media/CV_Viacheslav_2025_.pdf": "/Via-s_Portfolio/static/media/CV_Viacheslav_2025_.c3ca100c71fdb2b28a3b.pdf",
+    "static/media/avatar.png": "/Via-s_Portfolio/static/media/avatar.f7a9534284b2e4b89f4f.png",
+    "static/media/drosophila.jpg": "/Via-s_Portfolio/static/media/drosophila.ba04b0f1b2625a6ec220.jpg",
+    "static/media/AnesthIO.jpg": "/Via-s_Portfolio/static/media/AnesthIO.c2bec77aba9776d76061.jpg",
+    "static/media/TME.jpg": "/Via-s_Portfolio/static/media/TME.560242f51f004cbd1f2e.jpg",
+    "static/media/ADA.jpg": "/Via-s_Portfolio/static/media/ADA.5f984f699451b9264cfe.jpg",
+    "static/media/msln.jpg": "/Via-s_Portfolio/static/media/msln.c4debeb499a22bddf473.jpg",
+    "static/media/Track cycling-amico.svg": "/Via-s_Portfolio/static/media/Track cycling-amico.5bb609ff9ac5d5720f796be9e98fe8cb.svg",
+    "static/media/Medical research-rafiki.svg": "/Via-s_Portfolio/static/media/Medical research-rafiki.03f7787085c35a72a23292bcfe6b66cd.svg",
+    "static/media/logo.png": "/Via-s_Portfolio/static/media/logo.f32b1a778f6f6e894840.png",
+    "static/media/vscode.svg": "/Via-s_Portfolio/static/media/vscode.f5afdf1c4c0b365325db1e067c48782d.svg",
+    "static/media/Python.svg": "/Via-s_Portfolio/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
+    "index.html": "/Via-s_Portfolio/index.html",
+    "static/media/pre.svg": "/Via-s_Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/C++.svg": "/Via-s_Portfolio/static/media/C++.90772619f39a0a3b04f60ee5c827c002.svg",
+    "static/media/Git.svg": "/Via-s_Portfolio/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "static/media/Apple MacOSX.svg": "/Via-s_Portfolio/static/media/Apple MacOSX.6716caf08dfb7d91ce1df4625eadd6e7.svg",
+    "main.7d2b0347.css.map": "/Via-s_Portfolio/static/css/main.7d2b0347.css.map",
+    "main.68db6530.js.map": "/Via-s_Portfolio/static/js/main.68db6530.js.map",
+    "453.521dfb9b.chunk.js.map": "/Via-s_Portfolio/static/js/453.521dfb9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d2b0347.css",
+    "static/js/main.68db6530.js"
+  ]
+}

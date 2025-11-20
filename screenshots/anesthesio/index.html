@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anesthesio.AI Demo</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            margin: 0;
+            padding: 20px;
+            color: white;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .subtitle {
+            text-align: center;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            opacity: 0.9;
+        }
+        .intro-text {
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 40px;
+            line-height: 1.8;
+            text-align: justify;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+        }
+        .intro-text p {
+            margin-bottom: 15px;
+        }
+        .intro-text strong {
+            color: #ffd700;
+        }
+        .call-to-action {
+            text-align: center;
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #ffd700;
+            margin-top: 15px;
+        }
+        .gallery {
+            display: grid;
+            gap: 30px;
+        }
+        .media-item {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease;
+        }
+        .media-item:hover {
+            transform: translateY(-5px);
+        }
+        .media-item video {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            border: 2px solid #eee;
+        }
+        .media-item img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            border: 2px solid #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🩺 Anesthesio.AI Demo</h1>
+        <p class="subtitle">AI-Powered Anesthesiology Training Platform</p>
+        
+        <div class="intro-text">
+            <p>
+                <strong>About This Project:</strong> Anesthesio.AI was born from a real-world need identified by my father, an anesthetist, 
+                who expressed the challenge of effectively training residents and students in clinical documentation and case analysis. 
+                This prototype was initially designed for testing in a French hospital, which is why the demo below is presented in French.
+            </p>
+            <p>
+                The platform leverages AI (Whisper API + GPT) to transform voice notes into structured case summaries, track complications, 
+                and generate performance dashboards — helping trainees learn faster and more systematically.
+            </p>
+            <p>
+                <strong>Future Vision:</strong> This is just the beginning. The roadmap includes scaling to other medical specialties 
+                (surgery, internal medicine, emergency care, etc.), developing an AI-powered professional notebook for real-time use during 
+                consultations or post-operation summaries, implementing multi-language support, and building comprehensive analytics to 
+                improve both training outcomes and routine clinical care.
+            </p>
+            <p class="call-to-action">
+                🚀 Looking for investors or collaborators interested in transforming medical education and clinical workflows through AI. 
+                Feel free to reach out!
+            </p>
+        </div>
+        
+        <div class="gallery">
+            <!-- Demo Video -->
+            <div class="media-item">
+                <video controls>
+                    <source src="/videos/anesthesio_demo.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+            
+            <!-- Screenshots -->
+            <div class="media-item">
+                <img src="screenshot1.png" alt="Anesthesio.AI Screenshot 1">
+            </div>
+            
+            <div class="media-item">
+                <img src="screenshot2.png" alt="Anesthesio.AI Screenshot 2">
+            </div>
+            
+            <div class="media-item">
+                <img src="screenshot3.png" alt="Anesthesio.AI Screenshot 3">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
