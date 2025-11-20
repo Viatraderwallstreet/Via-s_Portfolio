@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
+import myImg from "../../Assets/avatar.png";
 import Tilt from "react-parallax-tilt";
 
 function Home2() {
@@ -13,38 +13,36 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I'm a Bioengineering graduate from EPFL with over 3 years of practical experience 
+              across research labs and clinical settings. My training bridges biology, engineering, 
+              and data analysis — with a strong focus on translational research and diagnostics.
               <br />
               <br />
-              I’m proficient in
+              I'm proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Python, R, CRISPR, Cell Culture, and Molecular Biology{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — and I have hands-on experience with tumor microenvironment research, ECMO clinical studies,
+              and GCP-aligned protocols in real-world healthcare settings.
               <br />
               <br />
-              My key areas of interest include developing
+              My areas of expertise include
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Molecular & Cellular Engineering, Translational Research, Medical Devices,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and regulatory affairs. I thrive in multidisciplinary teams and am driven by projects 
+              with real-world impact in healthcare.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              Beyond the lab, I'm a dedicated athlete with a background in
+              <b className="purple"> high-level road cycling</b>, triathlons, and mountaineering,
+              bringing the same discipline and precision to both my scientific pursuits and athletic endeavors.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
