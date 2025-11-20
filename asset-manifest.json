@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Via-s_Portfolio/static/css/main.7d2b0347.css",
-    "main.js": "/Via-s_Portfolio/static/js/main.68db6530.js",
+    "main.js": "/Via-s_Portfolio/static/js/main.b89924c9.js",
     "static/js/453.521dfb9b.chunk.js": "/Via-s_Portfolio/static/js/453.521dfb9b.chunk.js",
     "static/media/CV_Viacheslav_2025_.pdf": "/Via-s_Portfolio/static/media/CV_Viacheslav_2025_.c3ca100c71fdb2b28a3b.pdf",
     "static/media/avatar.png": "/Via-s_Portfolio/static/media/avatar.f7a9534284b2e4b89f4f.png",
@@ -21,11 +21,11 @@
     "static/media/Git.svg": "/Via-s_Portfolio/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
     "static/media/Apple MacOSX.svg": "/Via-s_Portfolio/static/media/Apple MacOSX.6716caf08dfb7d91ce1df4625eadd6e7.svg",
     "main.7d2b0347.css.map": "/Via-s_Portfolio/static/css/main.7d2b0347.css.map",
-    "main.68db6530.js.map": "/Via-s_Portfolio/static/js/main.68db6530.js.map",
+    "main.b89924c9.js.map": "/Via-s_Portfolio/static/js/main.b89924c9.js.map",
     "453.521dfb9b.chunk.js.map": "/Via-s_Portfolio/static/js/453.521dfb9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2b0347.css",
-    "static/js/main.68db6530.js"
+    "static/js/main.b89924c9.js"
   ]
 }
