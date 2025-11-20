@@ -7,7 +7,6 @@ import {
   SiMicrosoftoffice,
 } from "react-icons/si";
 import { FaMicroscope, FaClipboardCheck, FaChartLine } from "react-icons/fa";
-import { GiTestTubes } from "react-icons/gi";
 import { MdBiotech } from "react-icons/md";
 import macOs from "../../Assets/TechIcons/Apple MacOSX.svg";
 import vsCode from "../../Assets/TechIcons/vscode.svg";

@@ -2,8 +2,6 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { 
   SiR, 
-  SiJupyter,
-  SiLatex,
   SiMicrosoftexcel,
   SiArduino,
 } from "react-icons/si";

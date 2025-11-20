@@ -2,7 +2,7 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
-import { BsFileEarmarkText, BsGithub, BsImages } from "react-icons/bs";
+import { BsFileEarmarkText, BsGithub } from "react-icons/bs";
 
 function ProjectCards(props) {
   return (
