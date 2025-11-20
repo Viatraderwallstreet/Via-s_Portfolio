@@ -2,7 +2,6 @@
   "name": "viacheslav-bolotnikov-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://viatraderwallstreet.github.io/Via-s_Portfolio",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
@@ -29,9 +28,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
